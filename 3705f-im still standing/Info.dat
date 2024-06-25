@@ -1,0 +1,70 @@
+{
+  "_version": "2.1.0",
+  "_songName": "Im still standing",
+  "_songSubName": "israel still stands!",
+  "_songAuthorName": "Elton John",
+  "_levelAuthorName": "Firecracker",
+  "_beatsPerMinute": 100.0,
+  "_songTimeOffset": 0.0,
+  "_shuffle": 0.0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 37.0,
+  "_previewDuration": 35.0,
+  "_songFilename": "im-still-standing.egg",
+  "_coverImageFilename": "hmbhj.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_environmentNames": [],
+  "_colorSchemes": [],
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.9.661"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 16.0,
+          "_noteJumpStartBeatOffset": 0.0,
+          "_beatmapColorSchemeIdx": 0,
+          "_environmentNameIdx": 0,
+          "_customData": {
+            "_colorLeft": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.6,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 0.936,
+              "g": 0.959,
+              "b": 1
+            },
+            "_obstacleColor": {
+              "r": 0.877,
+              "g": 0.976,
+              "b": 1
+            },
+            "_envColorWhite": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
